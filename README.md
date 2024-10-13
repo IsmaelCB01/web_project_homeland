@@ -2,7 +2,7 @@
 
 Titulo: Patria a Patria
 
-Descripción: Quinto proyecto del Sprint 5 del Bootcamp de Desarrollo Web por parte de Tripleten.
+Descripción: Sexto proyecto del Sprint 6 del Bootcamp de Desarrollo Web por parte de Tripleten.
 
 Tecnologías: HTML y CSS
 

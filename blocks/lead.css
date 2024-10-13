@@ -34,7 +34,7 @@
   height: 100%;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .lead__title {
     font-weight: 900;
     font-size: 75px;
@@ -54,7 +54,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 718px) {
   .lead__title {
     font-weight: 900;
     font-size: 40px;
@@ -68,10 +68,5 @@
     padding: 16px 16px 40px 16px;
     box-sizing: border-box;
     margin: 0;
-  }
-
-  .lead__image {
-    max-width: 768px;
-    max-height: 200px;
   }
 }
