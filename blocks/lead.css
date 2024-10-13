@@ -45,13 +45,13 @@
   .lead__subtittle {
     padding: 25px 24px 30px 24px;
     box-sizing: border-box;
-    margin: 0;
+    margin: 0 auto;
   }
 
-  .lead__image {
+  /*.lead__image {
     max-width: 768px;
     max-height: 480px;
-  }
+  }*/
 }
 
 @media screen and (max-width: 718px) {
